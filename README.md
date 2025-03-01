@@ -14,3 +14,4 @@ Base64 – Used to detect and decode Base64-encoded ciphertexts.
 Re (Regex Module) – Helps validate hexadecimal and Base64 formats.
 Math – Used for entropy calculation (Shannon entropy formula).
 Collections (Counter) – Counts frequency of bytes to compute entropy.
+numpy, Pandas, Tensorflow, cryptography...............
